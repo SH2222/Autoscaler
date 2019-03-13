@@ -1,5 +1,5 @@
  {"service": "avg_response_time",
-  "tags": ["webapp"],
+  "tags": ["RESTServer"],
   "ttl": 10,
   "state": "ok",
   "host": "httpclient",

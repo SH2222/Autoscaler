@@ -13,7 +13,7 @@
   :service-metric    "avg_response_time"
 
   ; value of the metric after which start adding component instances
-  :metric-thold-up   500.0
+  :metric-thold-up   0
   ; value of the metric after which start removing component instances
   :metric-thold-down 200.0
 

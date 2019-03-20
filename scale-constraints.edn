@@ -13,9 +13,9 @@
   :service-metric    "avg_response_time"
 
   ; value of the metric after which start adding component instances
-  :metric-thold-up   0
+  :metric-thold-up   10
   ; value of the metric after which start removing component instances
-  :metric-thold-down 200.0
+  :metric-thold-down 0
 
   ; max number of component instances allowed
   :vms-max           10  ; "Price" constraint.

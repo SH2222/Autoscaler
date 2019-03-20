@@ -18,7 +18,7 @@
   :metric-thold-down 200.0
 
   ; max number of component instances allowed
-  :vms-max           4   ; "Price" constraint.
+  :vms-max           10  ; "Price" constraint.
 
   ;;
   ;; Optional parameters (with defaults).

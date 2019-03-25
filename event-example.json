@@ -1,6 +1,6 @@
  {"service": "avg_response_time",
   "tags": ["RESTServer"],
-  "ttl": 10,
+  "ttl": 160,
   "state": "ok",
   "host": "httpclient",
   "time": 1479202972,
